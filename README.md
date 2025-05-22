@@ -1,12 +1,11 @@
 # DataAnalytics-carpriceanalysis
-An end-to-end project that explores factors influencing car prices and builds a predictive model using regression techniques.
 
 Project Objectives
 *Clean and preprocess used car data for analysis.
 *Identify strong predictors of car price.
 *Visualize trends and correlations among variables.
 *Engineer meaningful features to boost model performance.
-*Train and evaluate machine learning models to predict car prices.
+
 
 #Technologies Used
  Python
