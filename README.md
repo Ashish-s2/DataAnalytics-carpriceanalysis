@@ -11,11 +11,7 @@ Removes multicollinearity by dropping highly correlated features
 Visualizes distributions, pairwise relationships, and correlations
 
 #Technologies Used
-Python
-Pandas
-NumPy
-Seaborn
-Matplotlib
+Python,Pandas,NumPy,Seaborn.Matplotlib
 
 #Dataset
 The dataset used is CarPriceData.csv, which contains specifications of various car models and their prices.
