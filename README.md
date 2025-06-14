@@ -8,7 +8,7 @@ Fixes typos in categorical data
 Creates dummy variables for categorical features
 Engineers new feature car_stability
 Removes multicollinearity by dropping highly correlated features
-Visualizes distributions, pairwise relationships,  and correlations
+Visualizes distributions, pairwise relationships, and correlations
 
 #Technologies Used :
 Python,Pandas,NumPy,Seaborn,Matplotlib
